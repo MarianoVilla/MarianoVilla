@@ -5,13 +5,14 @@
 [![IG](https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dager.32/)
 
 I'm a **Lead Software Developer** & **Content Creator** based in Buenos Aires, Argentina.
-I have +8 years of experience crafting full-stack solutions and leading technical teams, and I also share my passion for coding through live coding sessions and friendly yet technical YouTube videos.
+I have +8 years of experience crafting full-stack solutions and leading technical teams, and I also share my passion for programming through live coding sessions and friendly tech YouTube videos.
 
 ---
 
 ## 🚀 About Me
 
-I’m passionate about creating elegant, impactful, and well-crafted solutions to real-world challenges. I also have a deep love for teaching, philosophy, and theoretical computer science.
+I consider myself a problem-solver. I’m passionate about creating elegant, impactful, and well-crafted solutions to real-world challenges. 
+I also have a deep love for teaching, philosophy, and theoretical computer science.
 
 ---
 
