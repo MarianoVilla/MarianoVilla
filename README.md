@@ -81,6 +81,25 @@ I also have a deep love for teaching, philosophy, and theoretical computer scien
 
 ---
 
+## 🎓 Education
+
+- **Bachelor's Degree in Systems Analysis**  
+  *Raúl Scalabrini Ortiz Institute, Buenos Aires*  
+- **Bachelor's Degree in Philosophy (unfinished)**  
+  *University of Buenos Aires, Buenos Aires*  
+- **Bachelor's Degree in Computer Science (in progress)**  
+  *University of The People*
+
+---
+
+## 🎯 What I Bring to the Table
+
+- **Technical Vision:** Proven ability to set technical direction and drive architectural decisions.
+- **Team Leadership:** Experienced mentor, coach, and advocate for continuous improvement.
+- **Innovative Problem Solving:** Adept at tackling complex technical challenges with creative solutions.
+
+---
+
 ## 🎥 Content Creation & Media
 
 I'm not just a developer—I'm also a content creator! I believe in the power of comedy and cinema to bring complex topics down to Earth.  
@@ -109,24 +128,6 @@ Most of my work is proprietary, developed for clients under NDA. However, here a
 
 ---
 
-## 🎓 Education
-
-- **Bachelor's Degree in Systems Analysis**  
-  *Raúl Scalabrini Ortiz Institute, Buenos Aires*  
-- **Bachelor's Degree in Philosophy (unfinished)**  
-  *University of Buenos Aires, Buenos Aires*  
-- **Bachelor's Degree in Computer Science (in progress)**  
-  *University of The People*
-
----
-
-## 🎯 What I Bring to the Table
-
-- **Technical Vision:** Proven ability to set technical direction and drive architectural decisions.
-- **Team Leadership:** Experienced mentor, coach, and advocate for continuous improvement.
-- **Innovative Problem Solving:** Adept at tackling complex technical challenges with creative solutions.
-
----
 ## 📚 Recommended Readings
 
 I'm a bit of a bookworm, so here are some books that have shaped my thinking:
