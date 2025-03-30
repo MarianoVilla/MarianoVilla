@@ -41,8 +41,6 @@ I also have a deep love for teaching, philosophy, and theoretical computer scien
 ### **Database & Storage**
 - **Relational:** MSSQL, MySQL
 - **NoSQL:** MongoDB, DynamoDB, Firebase
-- **Caching:** Redis
-- **Message Queues:** Apache Kafka
 
 ### **Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
