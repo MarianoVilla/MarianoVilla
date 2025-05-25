@@ -4,6 +4,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youTube.com/@DotDager)
 [![IG](https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dager.32/)
 [![Play the game](https://img.shields.io/badge/Play_the_game-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://marianovilla.github.io/TheGame/)
+[![💻 Ponete a programar](https://img.shields.io/badge/💻_Ponete_a_programar-1A2B4C?style=for-the-badge&logoColor=white)](https://marianovilla.github.io/PoneteAProgramar/)
 
 I'm a **Lead Software Developer** & **Content Creator** based in Buenos Aires, Argentina.
 I have +8 years of experience crafting full-stack solutions and leading technical teams, and I also share my passion for programming through live coding sessions and friendly tech YouTube videos.
